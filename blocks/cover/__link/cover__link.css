@@ -1,7 +1,7 @@
 .cover__link {
   min-height: 740px;
   width: 100%;
-  background-image: url(./images/cover-trains.jpg);
+  background-image: url(../../../images/cover-trains.jpg);
   background-size: cover;
   background-position: center;
   color: #FFFFFF;
