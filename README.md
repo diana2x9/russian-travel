@@ -13,4 +13,4 @@
 * Реализовать переключение языка страницы
 
 ## Ссылка на проект
-https://github.com/diana2x9/russian-travel
+diana2x9.github.io/russian-travel/
